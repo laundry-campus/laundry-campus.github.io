@@ -1,0 +1,16 @@
+/* css/style.css - Yuwand (#2)
+   Tampilan semua halaman, termasuk halaman milik Rafi dan Radar.
+
+   TODO (#2, Yuwand):
+   - warna, font, dan ukuran sesuai desain Figma
+   - header dan menu (.header, .logo, .menu-toggle, .nav) serta .footer
+   - rapi di layar HP 360 px tanpa geser ke samping, lalu atur untuk laptop
+   - class umum yang bisa dipakai semua halaman:
+       .container    pembungkus isi halaman
+       .btn          tombol
+       .form-group   label + kolom isian
+       .pesan-error  pesan error di bawah kolom isian (dipakai validasi.js)
+       .kartu        kotak info (hasil lacak, daftar nota)
+
+   Kalau butuh tampilan khusus, minta ke Yuwand lewat grup, jangan edit file ini langsung.
+*/

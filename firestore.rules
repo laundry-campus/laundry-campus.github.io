@@ -1,0 +1,9 @@
+// firestore.rules - Radar (#5)
+// Aturan akses database. Setelah jadi, salin ke Firebase Console > Firestore > Rules.
+//
+// TODO (#5, Radar):
+// - nota: hanya pengelola yang login boleh baca dan tulis
+// - status: semua orang boleh baca satu data berdasarkan nomor nota
+//   (pakai "allow get", bukan "list", supaya daftar semua nota tidak bisa dilihat);
+//   hanya pengelola yang boleh menulis
+// - layanan: semua orang boleh baca, hanya pengelola yang boleh menulis
